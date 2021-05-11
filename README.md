@@ -1,27 +1,144 @@
-# ArsTodoProject
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App">
+    <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+  <h3 align="center">Todo App</h3>
 
-## Development server
+  <p align="center">
+    An awesome project to help in maintaining a Todo list!
+    <br />
+    <strong>Explore the docs »</strong>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App/issues">Request Feature</a>
+    <br />
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Product Name Screen Shot][product-screenshot]
 
-## Running end-to-end tests
+This is a simple Todo list app that really suit my needs so I created this one. I usually use this to manage my day to day tasks so as to make myself more productive!
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### Built With
 
-## Further help
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [Bootstrap](https://getbootstrap.com)
+* [JavaScript](https://www.javascript.com/)
+* [jQuery](https://jquery.com)
+* [Node.js](https://nodejs.org/en/)
+* [AngularJS](https://angularjs.org/)
+* [GitHub](https://github.com)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+1. GitHub Account ([Sign Up](https://github.com))
+2. AngularJS Basics ([Watch Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko))
+
+
+### Installation
+
+- Clone the repo
+   ```sh
+   git clone https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App.git
+   ```
+- Install Node.js ([Click here](https://nodejs.org/en/download/))
+- npm 
+  ```sh
+  npm install npm@latest -g
+  ```
+- Install NPM packages
+   ```sh
+   npm install
+   ```
+- Install Angular Cli ([Click Here](https://angular.io/cli))
+   
+
+<!-- ROADMAP -->
+## Roadmap
+
+Clone the repo and open it in suitable IDE for complete project backend code. You can also fix the issues and hence contribute.
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+
+Feel free to clone and modify according to your needs. But please give desirable CREDITS and STAR this repository!<br> Distributed under the MIT License. See `LICENSE` for more information.
+
+
+<!-- CONTACT -->
+## Contact
+
+Aaryan R S - aaryan20004@iiitd.ac.in
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [AngularJS Tutorial @Code With Harry](https://youtu.be/0LhBvp8qpro)
+* [Web Development Bootcamp @Code with Harry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+* [Best README Template](https://github.com/othneildrew/Best-README-Template)
+* [Flaticon](https://flaticon.com)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: readme-images/screenshot.png
