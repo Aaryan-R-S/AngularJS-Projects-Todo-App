@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App">
+  <a href="https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App">
     <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,7 +13,7 @@
     <strong>Explore the docs »</strong>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App">View Demo</a>
     ·
     <a href="https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App/issues">Report Bug</a>
     ·
@@ -128,7 +128,7 @@ Feel free to clone and modify according to your needs. But please give desirable
 
 Aaryan R S - aaryan20004@iiitd.ac.in
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Click Here](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
 
 
 
