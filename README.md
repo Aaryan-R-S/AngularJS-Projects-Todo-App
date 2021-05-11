@@ -21,7 +21,8 @@
     <br />
 </p>
 
-
+*Project Link* -> `[Click Here](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)`
+<br>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -129,7 +130,6 @@ Feel free to clone and modify according to your needs. But please give desirable
 Aaryan R S - aaryan20004@iiitd.ac.in
 
 Project Link: [Click Here](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
