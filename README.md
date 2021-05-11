@@ -21,9 +21,9 @@
     <br />
 </p>
 
-*Project Link* -> [Click Here](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
+**Project Link** -> [Click Here](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
 <br>
-*Source Code Link* -> [Click Here](https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App)
+**Source Code Link** -> [Click Here](https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App)
 <br>
 
 <!-- TABLE OF CONTENTS -->
@@ -129,9 +129,9 @@ Feel free to clone and modify according to your needs. But please give desirable
 <!-- CONTACT -->
 ## Contact
 
-Email ID: - aaryan20004@iiitd.ac.in
+Email ID - aaryan20004@iiitd.ac.in
 
-Project Link:- [https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
+Project Link - [https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
 
 
 <!-- ACKNOWLEDGEMENTS -->
