@@ -21,7 +21,8 @@
     <br />
 </p>
 
-*Project Link* -> `[Click Here](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)`
+*Project Link* -> [|Click Here|](https://aaryan-r-s.github.io/AngularJS-Projects-Todo-App)
+*Source Code Link* -> [|Click Here|](https://github.com/Aaryan-R-S/AngularJS-Projects-Todo-App)
 <br>
 
 <!-- TABLE OF CONTENTS -->
